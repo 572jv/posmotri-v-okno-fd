@@ -70,7 +70,8 @@ ol {
   position: relative;
   width: 711px;
   height: 386px;
-  margin-top: 168px;
+  /* margin-top: 168px; */
+  margin-top: 83px;
 }
 
 .result__video {
@@ -175,7 +176,8 @@ ol {
   grid-area: content__details;
   width: 399px;
   height: 100%;
-  padding-top: 93px;
+  /* padding-top: 93px; */
+  padding-top: 8px;
 }
 
 .content__accent {
